@@ -13,7 +13,6 @@ public class JvliKafkaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JvliKafkaApplication.class, args);
 		logger.info("<<<<<<<<<<<<<<<<Hello world,keep coding>>>>>>>>>>>>>>>>");
-		logger.info("<<<<<<<<<<<<<<<<星光不问赶路人>>>>>>>>>>>>>>>>");
 	}
 
 }
